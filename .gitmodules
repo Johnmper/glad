@@ -1,0 +1,3 @@
+[submodule "generator/glad"]
+	path = generator/glad
+	url = https://github.com/Dav1dde/glad.git
